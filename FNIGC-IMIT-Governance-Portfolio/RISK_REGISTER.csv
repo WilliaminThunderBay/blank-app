@@ -1,0 +1,7 @@
+risk_id,domain,risk,likelihood,impact,score,treatment,owner,status
+R-01,Identity,Privileged-access sprawl,4,4,16,Reduce privileges and perform quarterly reviews,Security Lead,Mitigate
+R-02,Architecture,Legacy integration dependency,3,4,12,Define governed API replacement roadmap,Enterprise Architecture Lead,Reduce
+R-03,Supplier,Vendor concentration,2,5,10,Exit plan and knowledge-transfer clauses,Director IMIT,Monitor
+R-04,Information Management,Unclassified legacy records,3,5,15,Inventory classify retain or dispose,Information Governance Lead,Mitigate
+R-05,People,Security-awareness variance,2,4,8,Role-based training and phishing exercises,Service Lead,Treat
+R-06,Resilience,Recovery objective mismatch,3,3,9,Validate RTO RPO and restore exercises,Infrastructure Lead,Validate
