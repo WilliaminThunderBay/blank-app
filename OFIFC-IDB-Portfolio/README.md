@@ -2,6 +2,8 @@
 
 Three interactive portfolio demos built around the responsibilities in the public OFIFC database-administration job description.
 
+**Live demo:** https://ofifc-idb-portfolio.vercel.app
+
 > **Disclosure:** Independent portfolio work. Not affiliated with OFIFC. No real OFIFC, Friendship Centre, client, employee or program-level records are used; all displayed operational data is synthetic.
 
 ## 1) IDB Admin Console
@@ -53,7 +55,7 @@ Three interactive portfolio demos built around the responsibilities in the publi
 | Training plans, tools and resources | Support & Training |
 
 ## Stack
-Dependency-free HTML, responsive CSS, inline SVG and vanilla JavaScript so the work is easy to inspect on GitHub and deploy as static sites to Vercel.
+Dependency-free HTML, responsive CSS and vanilla JavaScript so the work is easy to inspect on GitHub and deploy as static sites to Vercel.
 
 ## Author
 Junjun Hu (William)
